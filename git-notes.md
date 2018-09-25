@@ -179,3 +179,5 @@ It is a good idea to have a new line at the end of each file
 git checkout --readme -> restores the last file I saved with the last version of it that was commited
 
 git reset HEAD filename -> to reset the file, but still have to do the checkout
+
+test test test
